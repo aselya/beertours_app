@@ -1,0 +1,43 @@
+{ 
+  "date" : [ 
+    "july 15", [
+      "Tours",[
+        "1",{
+          "startTime": 3, 
+          "endTime": 9,
+          "participants": 10,
+          "Type": "sip",
+          "stops": [
+            "stop1", {
+              "location": "slumbrew",
+              "arrival" : "3:15"
+            },"stop2", {
+              "location": "dtr",
+              "arrival" : "4:15"
+            },"stop3", {
+              "location": "bbw",
+              "arrival" : "5:15"}
+            ]
+        },
+        
+        "3",{
+          "startTime": 4, 
+          "endTime": 10,
+          "participants": 10,
+          "Type": "sip",
+          "stops": [
+            "stop1", {
+              "location": "slumbrew",
+              "arrival" : "4:15"
+            },"stop2", {
+              "location": "dtr",
+              "arrival" : "5:15"
+            },"stop3", {
+              "location": "bbw",
+              "arrival" : "6:15"}
+            ]
+        }
+        ]
+      ]
+    ]
+}
